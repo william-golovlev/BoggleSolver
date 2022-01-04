@@ -1,0 +1,15 @@
+
+[	java:S112!"FDefine and throw a dedicated exception instead of using a generic one.(İ‘¿
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(è¢õøùÿÿÿÿ
+6
+java:S2129+" Remove this "String" constructor(½Ïœ
+M	java:S1063"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ËùÏ‹ûÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(ãÙÿâ
+B
+java:S1172Q",Remove this unused method parameter "board".(Ÿñã´
+V	java:S125T"<This block of commented-out lines of code should be removed.(†’†³ıÿÿÿÿ
+>
+java:S1481]"(Remove this unused "str" local variable.(ı¥‰Ÿ
+>
+java:S1125`"(Remove the unnecessary boolean literals.(ù×˜

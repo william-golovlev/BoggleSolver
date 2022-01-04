@@ -1,0 +1,11 @@
+
+S
+java:S1117\"8Rename "rows" which hides the field declared at line 31.(¡É‰Úøÿÿÿÿ
+V
+java:S1117]";Rename "columns" which hides the field declared at line 32.(¡Ë–˜þÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(è¢õøùÿÿÿÿ
+=
+java:S1068'"'Remove this unused "row" private field.(ÞÔô—
+E
+java:S1068("*Remove this unused "column" private field.(º‘—ôÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(À€êÊ
